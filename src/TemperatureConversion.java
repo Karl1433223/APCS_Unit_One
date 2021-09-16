@@ -11,7 +11,5 @@ public class TemperatureConversion {
         System.out.println(a+" degrees Fahrenheit is "+b+" degrees Celsius");
         // Display the results to the user:
         // ex. 212 degrees F is 100 degrees C
-
-
     }
 }

@@ -5,12 +5,13 @@ public class PoundsToKilograms {
 
 
         //declare the variables
-        double lbs;
+        double pounds;
         double kg;
         //assign the value 115 to lbs
-        lbs=115;
+        pounds=115;
         //calculate the kilograms and assign that value to kg
-        kg=52;
+        kg= pounds/2.205;
         //print the results
+        System.out.println(pounds+" pounds = "+kg+" kilograms");
     }
 }
