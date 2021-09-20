@@ -16,6 +16,6 @@ public class RoundNegatives {
 
         // Write a statement that will output the result in the form below.
         // ex. -3.21 rounded to a whole number is -3
-           System.out.println("-3.21 = ");
+           System.out.println(A+" round to a whole number is "+B);
     }
     }

@@ -13,7 +13,7 @@ public class FindTheAverage {
         // Create a total variable to keep track of the total value
         double average=(value+value2+value3+value4)/4;
         // Get four pieces of user input
-        System.out.println("Average = "+average);
+        System.out.println("Average = ");
         // Calculate the average
 
         // Display the result
